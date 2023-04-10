@@ -1,0 +1,15 @@
+C:\Users\mrdan\source\repos\FACoding\CreateCar\bin\Debug\net6.0\CreateCar.exe
+C:\Users\mrdan\source\repos\FACoding\CreateCar\bin\Debug\net6.0\CreateCar.deps.json
+C:\Users\mrdan\source\repos\FACoding\CreateCar\bin\Debug\net6.0\CreateCar.runtimeconfig.json
+C:\Users\mrdan\source\repos\FACoding\CreateCar\bin\Debug\net6.0\CreateCar.dll
+C:\Users\mrdan\source\repos\FACoding\CreateCar\bin\Debug\net6.0\CreateCar.pdb
+C:\Users\mrdan\source\repos\FACoding\CreateCar\obj\Debug\net6.0\CreateCar.csproj.AssemblyReference.cache
+C:\Users\mrdan\source\repos\FACoding\CreateCar\obj\Debug\net6.0\CreateCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrdan\source\repos\FACoding\CreateCar\obj\Debug\net6.0\CreateCar.AssemblyInfoInputs.cache
+C:\Users\mrdan\source\repos\FACoding\CreateCar\obj\Debug\net6.0\CreateCar.AssemblyInfo.cs
+C:\Users\mrdan\source\repos\FACoding\CreateCar\obj\Debug\net6.0\CreateCar.csproj.CoreCompileInputs.cache
+C:\Users\mrdan\source\repos\FACoding\CreateCar\obj\Debug\net6.0\CreateCar.dll
+C:\Users\mrdan\source\repos\FACoding\CreateCar\obj\Debug\net6.0\refint\CreateCar.dll
+C:\Users\mrdan\source\repos\FACoding\CreateCar\obj\Debug\net6.0\CreateCar.pdb
+C:\Users\mrdan\source\repos\FACoding\CreateCar\obj\Debug\net6.0\CreateCar.genruntimeconfig.cache
+C:\Users\mrdan\source\repos\FACoding\CreateCar\obj\Debug\net6.0\ref\CreateCar.dll

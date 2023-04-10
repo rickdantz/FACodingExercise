@@ -1,0 +1,15 @@
+C:\Users\mrdan\source\repos\FACoding\CompleteProject\bin\Debug\net6.0\CompleteProject.exe
+C:\Users\mrdan\source\repos\FACoding\CompleteProject\bin\Debug\net6.0\CompleteProject.deps.json
+C:\Users\mrdan\source\repos\FACoding\CompleteProject\bin\Debug\net6.0\CompleteProject.runtimeconfig.json
+C:\Users\mrdan\source\repos\FACoding\CompleteProject\bin\Debug\net6.0\CompleteProject.dll
+C:\Users\mrdan\source\repos\FACoding\CompleteProject\bin\Debug\net6.0\CompleteProject.pdb
+C:\Users\mrdan\source\repos\FACoding\CompleteProject\obj\Debug\net6.0\CompleteProject.csproj.AssemblyReference.cache
+C:\Users\mrdan\source\repos\FACoding\CompleteProject\obj\Debug\net6.0\CompleteProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrdan\source\repos\FACoding\CompleteProject\obj\Debug\net6.0\CompleteProject.AssemblyInfoInputs.cache
+C:\Users\mrdan\source\repos\FACoding\CompleteProject\obj\Debug\net6.0\CompleteProject.AssemblyInfo.cs
+C:\Users\mrdan\source\repos\FACoding\CompleteProject\obj\Debug\net6.0\CompleteProject.csproj.CoreCompileInputs.cache
+C:\Users\mrdan\source\repos\FACoding\CompleteProject\obj\Debug\net6.0\CompleteProject.dll
+C:\Users\mrdan\source\repos\FACoding\CompleteProject\obj\Debug\net6.0\refint\CompleteProject.dll
+C:\Users\mrdan\source\repos\FACoding\CompleteProject\obj\Debug\net6.0\CompleteProject.pdb
+C:\Users\mrdan\source\repos\FACoding\CompleteProject\obj\Debug\net6.0\CompleteProject.genruntimeconfig.cache
+C:\Users\mrdan\source\repos\FACoding\CompleteProject\obj\Debug\net6.0\ref\CompleteProject.dll
