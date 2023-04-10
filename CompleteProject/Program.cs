@@ -90,7 +90,7 @@ int[] MultiToSingle(int[,] array)
 }
 void ConvertNumbersToString()
 {
-    Console.WriteLine("Please Enter a Number from 1 to 6");
+    Console.WriteLine("Please Enter a Number from 1 to 9");
     int aNumber = int.Parse(Console.ReadLine());
 
     switch (aNumber)
@@ -113,10 +113,18 @@ void ConvertNumbersToString()
         case 6:
             Console.WriteLine("Your Number is: Six");
             break;
+        case 7:
+            Console.WriteLine("Your Number is: Seven");
+            break;
+        case 8:
+            Console.WriteLine("Your Number is: Eight");
+            break;
+        case 9:
+            Console.WriteLine("Your Number is: Nine");
+            break;
         default:
-            Console.WriteLine("You Did Not Enter a Number between 1 and 6");
+            Console.WriteLine("You Did Not Enter a Number between 1 and 9");
             break;
     }
-
 }
 
